@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Últimas Noticias</title>
+    <link>https://tusitio.github.io/rss/noticias.xml</link>
+    <description>Noticias destacadas de nuestra marca</description>
+    <item>
+      <title>Noticia 1</title>
+      <link>https://tusitio.github.io/noticia1</link>
+      <description>Descripción de la noticia 1</description>
+      <pubDate>Mon, 03 Jun 2024 10:00:00 GMT</pubDate>
+      <category>Eventos</category>
+      <category>Lanzamientos</category>
+      <enclosure url="https://tusitio.github.io/images/noticia1.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

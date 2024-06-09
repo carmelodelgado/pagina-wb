@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Ofertas de la Semana</title>
+    <link>https://tusitio.github.io/rss/ofertas.xml</link>
+    <description>Las mejores ofertas de la semana</description>
+    <item>
+      <title>Oferta 1</title>
+      <link>https://tusitio.github.io/oferta1</link>
+      <description>Descripción de la oferta 1</description>
+      <pubDate>Mon, 03 Jun 2024 10:00:00 GMT</pubDate>
+      <category>Electrónica</category>
+      <category>Hogar</category>
+      <enclosure url="https://tusitio.github.io/images/oferta1.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
